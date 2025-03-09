@@ -1,51 +1,16 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
-
-## 🚀 Introdução
-
-> Woooow! Look at this 👀
-
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
-
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
-
-### Objetivos
-
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
-
-### Template
-
-```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# Facilitando IA
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Neste projeto iremos entender e desenvolver automações que irão otimizar e facilitar seu dia a dia
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+Iremos usar a DeepSeek, Open IA, Qwen 2.5 e Claude integradas com ferramentas como N8N, Dify, Supabase 
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Iniciamos o processo de criação criando a conta nos aplicativos citados acima, apos a criação iniciamos as integrações destas ferramentas com as IAs.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+Com os desenvolvimentos realizados conseguimos criar agentes e chatbots que conseguimos ajudar e melhoras algumas tividades rotineiras que os usuarios acabam perdendo tempo para realizar, hoje temos dois usuario usando o chatbot onde conseguimos realizar agendas automaticamenente para barbearias, neste chatbot tambem enviamos promoções semanamalmente para todos os usuario cadastrados na nossa base de dados. Com esta entrega os proprietario conseguiram ter um aumento na produtividade de mais de 20% no dia a dia.
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
-
-### Exemplos e Insigths
-
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
-
-## Links Interessantes
-
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
+Neste desafio conseguimos pensar fora da caixa, conseguimos ter ideias que podemos ajudar as pessoas reais nas atividade diarias 'natty' com IA 
